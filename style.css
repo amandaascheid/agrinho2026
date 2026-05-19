@@ -1,0 +1,10 @@
+/*Reset*/
+*{
+    margin:0; /*margem do body zerada*/
+    padding:0; /*espaço interno do body zerado*/
+}
+
+.cabecalho{
+    background-color: rgb(159, 155, 231);
+    display: flex; 
+}
